@@ -21,14 +21,6 @@ Satellite image segmentation plays a crucial role in extracting meaningful infor
    cd Dubai-Satellite-Image-Segmentation
    ```
 
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Make sure you have Python and pip installed on your system.
-
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
